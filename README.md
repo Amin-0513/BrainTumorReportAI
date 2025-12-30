@@ -9,6 +9,31 @@
 
 
 
+```bash
+# Clone the repository
+git clone https://github.com/Amin-0513/BrainTumorReportAI.git
+
+# Navigate to project directory
+cd BrainTumorReportAI
+
+# create python environment
+python -m venv llmservice
+
+# activate python environment
+llmservice\Scripts\activate
+
+# Install dependencies
+pip install -r requirments.txt
+
+zenml init
+
+## Start project
+uvicorn llmserviceapi:app --host 0.0.0.0 --port 5000 --reload
+
+```
+
+
+
 ## User Interface
 <table>
    <tr>
