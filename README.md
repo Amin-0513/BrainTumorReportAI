@@ -4,4 +4,5 @@
 
 ### First Step
 
-[![Frontend Repository](https://img.shields.io/badge/Front-end-Repository-blue?logo=github)](https://github.com/Amin-0513/brain-tumor-frontend.git)
+[![Frontend Repository](https://img.shields.io/badge/Front%20End-Repository-blue?logo=github)](https://github.com/Amin-0513/brain-tumor-frontend)
+
