@@ -6,3 +6,14 @@
 
 [![Frontend Repository](https://img.shields.io/badge/Front%20End-Repository-blue?logo=github)](https://github.com/Amin-0513/brain-tumor-frontend)
 
+
+
+
+## User Interface
+<table>
+   <tr>
+    <td><img src="images/5.jpeg" width="400"/></td>
+    <td><img src="images/6.jpeg" width="400"/></td>
+  </tr>
+  
+</table>
